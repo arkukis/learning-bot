@@ -1,1 +1,1 @@
-# learning-bot
+# learning-solana
