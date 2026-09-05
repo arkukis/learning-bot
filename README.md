@@ -2,6 +2,9 @@
 
 5 September done to do task create solana token with SPL Token Original and Metaplex metadata.
 
+result:
+https://explorer.solana.com/address/EiaFf8yTKuFCkqpaJrh3pc7gDs9AbNXvRS5f1vgcA5MZ/metadata?cluster=devnet
+
 next, i will learn with other option available is extension Token 2022 and upload metada with uri
 
 next, learning smart contract funtion with anchor framework or Rust. i think this hard part because i need a logic to run system without knowing its actual function.
